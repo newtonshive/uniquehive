@@ -1,7 +1,6 @@
-{
-  "clients": [
+[
     {
-      "id": "59761c23b30d971669fb42ff",
+      "id": 1,
       "isActive": true,
       "age": 36,
       "name": "Dunlap Hubbard",
@@ -12,8 +11,8 @@
       "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 8551"
     },
     {
-      "id": "59761c233d8d0f92a6b0570d",
-      "isActive": true,
+      "id": 2,
+      "isActive": false,
       "age": 24,
       "name": "Kirsten Sellers",
       "gender": "female",
@@ -23,8 +22,8 @@
       "address": "886 Gallatin Place, Fannett, Arkansas, 4656"
     },
     {
-      "id": "59761c23fcb6254b1a06dad5",
-      "isActive": true,
+      "id": 3,
+      "isActive": false,
       "age": 30,
       "name": "Acosta Robbins",
       "gender": "male",
@@ -33,5 +32,103 @@
       "phone": "+1 (882) 441-3367",
       "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
     }
-  ]
-}
+    {
+      "id": 4,
+      "isActive": true,
+      "age": 29,
+      "name": "Dunlap",
+      "gender": "female",
+      "company": "CEDWARD",
+      "email": "dunlaphubbard@cedward.com",
+      "phone": "+1 (890) 543-2508",
+      "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 9801"
+    },
+    {
+      "id": 5,
+      "isActive": true,
+      "age": 32,
+      "name": "Kirsten",
+      "gender": "male",
+      "company": "EMERGENT",
+      "email": "kirstensellers@emergent.com",
+      "phone": "+1 (831) 564-2190",
+      "address": "886 Gallatin Place, Fannett, Arkansas, 8998"
+    },
+    {
+      "id": 6,
+      "isActive": true,
+      "age": 39,
+      "name": "Acosta",
+      "gender": "male",
+      "company": "ORGANICA",
+      "email": "acostarobbins@organica.com",
+      "phone": "+1 (882) 441-3367",
+      "address": "697 Linden Boulevard, Sattley, Idaho, 1464"
+    }
+    {
+      "id": 7,
+      "isActive": false,
+      "age": 21,
+      "name": "Hubbard",
+      "gender": "female",
+      "company": "CEDWARD",
+      "email": "dunlaphubbard@cedward.com",
+      "phone": "+1 (890) 543-2508",
+      "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 1558"
+    },
+    {
+      "id": 8,
+      "isActive": false,
+      "age": 24,
+      "name": "Kirsten Sellers",
+      "gender": "female",
+      "company": "EMERGENT",
+      "email": "kirstensellers@emergent.com",
+      "phone": "+1 (831) 564-2190",
+      "address": "886 Gallatin Place, Fannett, Arkansas, 4656"
+    },
+    {
+      "id": 9,
+      "isActive": false,
+      "age": 30,
+      "name": "Acosta Robbins",
+      "gender": "male",
+      "company": "ORGANICA",
+      "email": "acostarobbins@organica.com",
+      "phone": "+1 (882) 441-3367",
+      "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
+    }
+    {
+      "id": 10,
+      "isActive": true,
+      "age": 29,
+      "name": "Dunlap Fifty",
+      "gender": "female",
+      "company": "CEDWARD",
+      "email": "dunlaphubbard@cedward.com",
+      "phone": "+1 (890) 543-2508",
+      "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 9801"
+    },
+    {
+      "id": 11,
+      "isActive": true,
+      "age": 32,
+      "name": "Kirsten Sixty",
+      "gender": "male",
+      "company": "EMERGENT",
+      "email": "kirstensellers@emergent.com",
+      "phone": "+1 (831) 564-2190",
+      "address": "886 Gallatin Place, Fannett, Arkansas, 8998"
+    },
+    {
+      "id": 12,
+      "isActive": false,
+      "age": 17,
+      "name": "Acosta",
+      "gender": "female",
+      "company": "ORGANICA",
+      "email": "acostarobbins@organica.com",
+      "phone": "+1 (882) 441-3367",
+      "address": "697 Linden Boulevard, Sattley, Idaho, 4674"
+    }
+]
